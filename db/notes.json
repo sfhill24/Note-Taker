@@ -1,11 +1,6 @@
 {
   "notes": [
     {
-      "title": "Note 1",
-      "text": "test",
-      "id": "0"
-    },
-    {
       "title": "Note 2",
       "text": "test",
       "id": "1"
@@ -13,6 +8,11 @@
     {
       "title": "NOte 3",
       "text": "nf",
+      "id": "2"
+    },
+    {
+      "title": "Note 1",
+      "text": "Testing",
       "id": "2"
     }
   ]
